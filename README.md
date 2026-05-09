@@ -1,7 +1,5 @@
 # Browser Bridge
 
-**Built by Abdul Aatif.**
-
 > Makes Aider/Zed treat ChatGPT web as a real OpenAI-compatible backend.
 > No API key. No billing dashboard. Just a browser and a bridge.
 
